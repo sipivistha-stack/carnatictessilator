@@ -1,0 +1,7 @@
+{
+  "name": "EduTask Studio - Dual Classroom Hub",
+  "description": "Educational platform with Student and Teacher dashboards, multi-format assignments, code execution, submission evaluations, and visual pen correction sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
